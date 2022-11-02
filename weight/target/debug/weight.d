@@ -1,0 +1,1 @@
+/project/rust_setup/weight/target/debug/weight: /project/rust_setup/weight/src/main.rs /project/rust_setup/weight/src/utils/calc.rs /project/rust_setup/weight/src/utils/even_odd.rs /project/rust_setup/weight/src/utils/mod.rs
